@@ -1,5 +1,5 @@
 # talk-vaex-pandas-summit-2019
-Slide and notebook used for my talk on vaex at the Pandas summit 2019 @ Lodnon
+Slide and notebook used for my talk on vaex at the Pandas summit 2019 @ London
 
  * Resources
      * https://github.com/vaexio/vaex
